@@ -35,9 +35,21 @@ git add .
 git commit -m "Initial commit with Python program and Dockerfile"
 git push origin main
 
+## Create repository in Dockerhub
+Repo name cloud-engine-labs
+
 ##  Create a GitHub Action Workflow:
 ci.yml
 
-## Create repository in Dockerhub
-Repo name cloud-engine-labs
+# create Secrets in GitHUb for access dockerhub 
+==> Go to Setting ==> secrets and variables ==> New Repository secret (Enter secret name and secret values)
+
+
+
+
+
+
+
+
+
 
